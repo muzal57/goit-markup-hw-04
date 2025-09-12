@@ -56,9 +56,6 @@ ul {
 .header-list {
   display: flex;
   gap: 40px;
-}
-
-.header-list-item {
   position: relative;
   color: #404bbf;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
