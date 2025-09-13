@@ -428,9 +428,16 @@ ul {
   padding: 100px 0;
 }
 
-.footer-continer {
+.footer-container {
   display: flex;
   align-items: baseline;
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.footer-items-container {
+  margin-right: 120px;
 }
 .footer-logo-span {
   color: #f4f4fd;
