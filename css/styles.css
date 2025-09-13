@@ -428,6 +428,10 @@ ul {
   padding: 100px 0;
 }
 
+.footer-continer {
+  display: flex;
+  align-items: baseline;
+}
 .footer-logo-span {
   color: #f4f4fd;
 }
